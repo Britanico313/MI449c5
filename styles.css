@@ -70,6 +70,7 @@ td.footer {
 }
 .article {
     display: flex;
+    max-width: 700px;
     align-items: center;
     margin-bottom: 5px;
     background-color: #ffffff;
