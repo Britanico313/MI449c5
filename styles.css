@@ -68,3 +68,10 @@ td.footer {
     border-top: 1px solid #eeeeee;
     font-size: 14px;
 }
+.article {
+    display: flex;
+    align-items: center;
+    margin-bottom: 5px;
+    background-color: #ffffff;
+    padding: 8px;
+}
